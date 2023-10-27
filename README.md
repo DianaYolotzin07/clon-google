@@ -11,10 +11,11 @@ Este se puede visitar en el iguiente enlace
 <br>
 **Inspirate en este proyecto, tu puedes ser una gran desarrolladora y explorar el mundo de la programacion**
 ## Contenido del proyecto 
-1. *hooter*
+<br>
+1. *hooter:*
 Seccion que muestra el menú y foto del perfil.
-2.*main* 
+<br>2.*main:* 
 Contiene los elementos centrales del navegador.
-3.footer*
+<br>3.footer:*
 Incluye los hipervinculos al fina de la pagina.
 Realizado por **Diana Yolotzin Felix Villa**
