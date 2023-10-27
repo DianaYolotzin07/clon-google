@@ -7,6 +7,7 @@ Poniendo en practica lo aprendido en TecnolochicasPro
 ## 1.Intro
 El proyecto fue creado con **html y css** se trata del navegador mas usado.
 Este se puede visitar en el iguiente enlace: https://google-clone-diana07.netlify.app/
+<br>
 ![alt text](imagenes/Imagen1google.png)
 <br>
 **Inspirate en este proyecto, tu puedes ser una gran desarrolladora y explorar el mundo de la programacion**
