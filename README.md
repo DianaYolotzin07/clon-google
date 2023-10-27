@@ -20,4 +20,5 @@ Contiene los elementos centrales del navegador.
 <br>3.*footer:*
 Incluye los hipervinculos al fina de la pagina.
 <br>
+
 Realizado por **Diana Yolotzin Felix Villa**
