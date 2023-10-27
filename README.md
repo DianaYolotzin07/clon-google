@@ -16,6 +16,6 @@ Este se puede visitar en el iguiente enlace
 Seccion que muestra el menú y foto del perfil.
 <br>2.*main:* 
 Contiene los elementos centrales del navegador.
-<br>3.footer:*
+<br>3.*footer:*
 Incluye los hipervinculos al fina de la pagina.
 Realizado por **Diana Yolotzin Felix Villa**
