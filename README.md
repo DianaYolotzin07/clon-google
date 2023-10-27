@@ -8,7 +8,8 @@ Poniendo en practica lo aprendido en TecnolochicasPro
 El proyecto fue creado con **html y css** se trata del navegador mas usado.
 Este se puede visitar en el iguiente enlace 
 ![alt text](imagenes/Imagen1google.png)
-**Inspirate en este proyecto, tu pueddes ser una gran desarrolladora y explorar el mundo de la programacion**
+<br>
+**Inspirate en este proyecto, tu puedes ser una gran desarrolladora y explorar el mundo de la programacion**
 ## Contenido del proyecto 
 1. *hooter*
 Seccion que muestra el menú y foto del perfil.
